@@ -9,7 +9,7 @@ const ThankYou = ({ onReset }) => {
   }, [onReset]);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-zinc-100">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-blue-300">
       <h1 className="text-2xl font-bold mb-4">Thank you for your time!</h1>
     </div>
   );
